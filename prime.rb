@@ -11,16 +11,6 @@ def prime?(n)
    end
 end
 
-
-
-
-
-
-
-
-
-
-
 =begin
 #def prime?(test_num)
  # if test_num > 2 
@@ -50,5 +40,4 @@ end
 # 1) if the num is greater than 2 
 #2) what is the remainder for the  num / 2, if the remainder is 0 then it is not a   #prime number.  
 #2) test if it is greater t
-
 =end 
